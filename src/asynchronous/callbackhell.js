@@ -1,5 +1,5 @@
 function wait(ms, cb) {
-  setTimeout(cb, ms);
+  setTimeout(cb, ms); // callback after some mili seconds
 }
 
 function main() {
